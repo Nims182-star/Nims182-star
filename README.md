@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Nims182-star
-I am a penetration tester, all files here are for educational purposes and should not be used illegally.
-I’m currently learning to be great at using Python and Bash scripts.
-I’m looking forward to collaborating on future projects. 
+About Me
+Passionate cybersecurity professional with 6+ years of experience in penetration testing, vulnerability research, and security consulting. I specialize in web application security, network penetration testing, and IoT device security assessments.
+Tech Stack
+Languages: Python, PowerShell, Bash
+Frameworks: Metasploit, Burp Suite, Cobalt Strike, Empire
+Tools: Nmap, Wireshark, Hashcat, John the Ripper, Custom Scripts
+Platforms: Kali Linux, Windows, macOS, AWS, Azure
 
 
 <!---
