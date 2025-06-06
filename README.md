@@ -1,5 +1,5 @@
 About Me
-Passionate cybersecurity professional with 6+ years of experience in penetration testing, vulnerability research, and security consulting. I specialize in web application security, network penetration testing, and IoT device security assessments.
+Passionate cybersecurity professional with 1+ years of experience in penetration testing, vulnerability research, and security consulting. I specialize in web application security, network penetration testing, and IoT device security assessments.
 Tech Stack
 Languages: Python, PowerShell, Bash
 Frameworks: Metasploit, Burp Suite, Cobalt Strike, Empire
